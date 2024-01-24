@@ -1,7 +1,7 @@
 Hi 👋 My name is Rishabh Madan
 ==============================
 
-Enthusiastic Web and UI/UX Developer
+Enthusiastic Developer
 ------------------------------------
 
 Student at GNI. Passionate about all kinds of tech.
