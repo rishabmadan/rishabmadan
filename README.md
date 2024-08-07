@@ -8,7 +8,7 @@ Student at GNI. Passionate about all kinds of tech.
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [rishabh.madan2002@gmail.com](mailto:rishabh.madan2002@gmail.com)
-* 🧠  I'm learning UX design and Salesforce
+* 🧠  I'm learning UX design and Cyber Security
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
